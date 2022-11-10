@@ -73,7 +73,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Projects</b>
 <br>
 
 <p align="center">
@@ -83,6 +83,12 @@
     ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop%20-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
     ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents%20-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
   
+<br>
+
+- **Extras**:
+	
+    ![NGINX Reverse Proxy](https://img.shields.io/badge/Nginx%20Reverse%20Proxy-lime.svg?style=for-the-badge&logo=nginx&logoColor=white)
+	
 </p>
 
 <br>
