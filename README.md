@@ -33,10 +33,11 @@
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-orange.svg?style=for-the-badge&logo=oracle&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+    ![Assembler](https://img.shields.io/badge/Assembler-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
+    ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=oracle&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 <br>   
     
@@ -81,8 +82,13 @@
 
 - **Completed**:
   
-    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop%20-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
-    ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents%20-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
+    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
+    ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
+    ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-red.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+    ![Pi-hole](https://img.shields.io/badge/Pi%20Hole-red.svg?style=for-the-badge&logo=Pi-hole&logoColor=white)
+    ![Arduino](https://img.shields.io/badge/Arduino-lightblue.svg?style=for-the-badge&logo=Arduinow&logoColor=white)
+    ![Microcontroller](https://img.shields.io/badge/Microcontroller-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
+    ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
   
 <br>
 
