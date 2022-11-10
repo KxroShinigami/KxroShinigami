@@ -141,7 +141,7 @@
 </li>
 <li>
 <a href="https://www.buymeacoffee.com/kxroshinigp" target="_blank">
-<img src="https://img.shields.io/badge/BuyMeACoffee-orange.svg?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white" style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white" style="margin-bottom: 5px;" />
 </a>
 </li
 </ul>
