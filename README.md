@@ -80,7 +80,7 @@
 
 - **Completed Projects**:
   
-    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop%20-%232370ED.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
+    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop%20-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
     ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents%20-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
   
 </p>
