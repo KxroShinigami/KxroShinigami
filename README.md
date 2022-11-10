@@ -46,7 +46,7 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![React](https://img.shields.io/badge/ReactJS%20-blue.svg?style=for-the-badge&logo=React&logoColor=cyan)
-   ![MERN Stack](https://img.shields.io/badge/MERN Stack%20-%2314354C.svg?style=for-the-badge&logo=stackbit&logoColor=white)
+   ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%2314354C.svg?style=for-the-badge&logo=stackbit&logoColor=white)
   
 <br>
 
@@ -80,8 +80,8 @@
 
 - **Completed Projects**:
   
-    ![Headless Laptop](https://img.shields.io/badge/Headless Laptop%20-%232370ED.svg?style=for-the-badge&logo=Headless UI&logoColor=white)
-    ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer Environment with Portainer Agents%20-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
+    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop%20-%232370ED.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
+    ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents%20-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
   
 </p>
 
