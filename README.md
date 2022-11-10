@@ -56,7 +56,8 @@
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+    ![Windows](https://img.shields.io/badge/Windows-cyan?style=for-the-badge&logo=windows&logoColor=white)
 
 <br>
 
@@ -78,14 +79,14 @@
 
 <p align="center">
 
-- **Completed Projects**:
+- **Completed**:
   
     ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop%20-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
     ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents%20-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
   
 <br>
 
-- **Extras**:
+- **Planed**:
 	
     ![NGINX Reverse Proxy](https://img.shields.io/badge/Nginx%20Reverse%20Proxy-lime.svg?style=for-the-badge&logo=nginx&logoColor=white)
 	
