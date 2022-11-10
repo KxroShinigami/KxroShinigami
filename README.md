@@ -31,41 +31,41 @@
 
 <p align="center">
 
-- **Languages**:
-    
-    ![Assembler](https://img.shields.io/badge/Assembler-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
-    ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=oracle&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+	- **Languages**:
 
-<br>   
-    
-- **Web Development**:
+	    ![Assembler](https://img.shields.io/badge/Assembler-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
+	    ![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
+	    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	    ![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=oracle&logoColor=white)
+	    ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![React](https://img.shields.io/badge/ReactJS%20-blue.svg?style=for-the-badge&logo=React&logoColor=cyan)
-   ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%2314354C.svg?style=for-the-badge&logo=stackbit&logoColor=white)
-  
-<br>
+	<br>   
 
-- **Softwares and Tools**:
+	- **Web Development**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Windows](https://img.shields.io/badge/Windows-cyan?style=for-the-badge&logo=windows&logoColor=white)
+	   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+	   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+	   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+	   ![React](https://img.shields.io/badge/ReactJS%20-blue.svg?style=for-the-badge&logo=React&logoColor=cyan)
+	   ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-%2314354C.svg?style=for-the-badge&logo=stackbit&logoColor=white)
 
-<br>
+	<br>
 
-- **Extras**:
+	- **Softwares and Tools**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+	    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+	    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+	    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+	    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+	    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+	    ![Windows](https://img.shields.io/badge/Windows-cyan?style=for-the-badge&logo=windows&logoColor=white)
+
+	<br>
+
+	- **Extras**:
+
+	    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+	    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
 
 </p>
@@ -80,22 +80,22 @@
 
 <p align="center">
 
-- **Completed**:
-  
-    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
-    ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
-    ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-red.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-    ![Pi-hole](https://img.shields.io/badge/Pi%20Hole-red.svg?style=for-the-badge&logo=Pi-hole&logoColor=white)
-    ![Arduino](https://img.shields.io/badge/Arduino-lightblue.svg?style=for-the-badge&logo=Arduinow&logoColor=white)
-    ![Microcontroller](https://img.shields.io/badge/Microcontroller-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
-    ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-  
-<br>
+	- **Completed**:
 
-- **Planed**:
-	
-    ![NGINX Reverse Proxy](https://img.shields.io/badge/Nginx%20Reverse%20Proxy-lime.svg?style=for-the-badge&logo=nginx&logoColor=white)
-	
+	    ![Headless Laptop](https://img.shields.io/badge/Headless%20Laptop-%231572B6.svg?style=for-the-badge&logo=Headless%20UI&logoColor=white)
+	    ![Portainer Environment with Portainer Agents](https://img.shields.io/badge/Portainer%20Environment%20with%20Portainer%20Agents-%232370ED.svg?style=for-the-badge&logo=Portainer&logoColor=white)
+	    ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-red.svg?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+	    ![Pi-hole](https://img.shields.io/badge/Pi%20Hole-red.svg?style=for-the-badge&logo=Pi-hole&logoColor=white)
+	    ![Arduino](https://img.shields.io/badge/Arduino-lightblue.svg?style=for-the-badge&logo=Arduinow&logoColor=white)
+	    ![Microcontroller](https://img.shields.io/badge/Microcontroller-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
+	    ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-orange.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+
+	<br>
+
+	- **Planed**:
+
+	    ![NGINX Reverse Proxy](https://img.shields.io/badge/Nginx%20Reverse%20Proxy-lime.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 </p>
 
 <br>
@@ -110,12 +110,11 @@
 <br>
 
 <div align="center">
+	<a href="https://github.com/KxroShinigami/">
+	  <img src="https://github-readme-stats.vercel.app/api?username=KxroShinigami&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KxroShinigami&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="KxroShinigami"/>
 
-<a href="https://github.com/KxroShinigami/">
-  <img src="https://github-readme-stats.vercel.app/api?username=KxroShinigami&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KxroShinigami&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="KxroShinigami"/>
-
-</a>
+	</a>
 </div>
 
 <br>
@@ -131,13 +130,24 @@
 <br>
 <div align='left'>
 
-<ul>
-<li>
-<a href="mailto:kxroshinigami@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  kxroshinigami-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
-</ul>
+	<ul>
+		<li>
+			<a href="mailto:kxroshinigami@gmail.com" target="_blank">
+				<img src="https://img.shields.io/badge/gmail:  kxroshinigami-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+			</a>
+		</li>
+
+		<li>
+			<a href="https://creator.nightcafe.studio/u/Kxro" target"_blank">
+				<img src="https://img.shields.io/badge/Nightcafe:%20%20AI%20Art-black.svg?style=for-the-badge&logo=Artifact%20Hub&logoColor=white" style"margin-bottom: 5px;" />
+			</a>
+		</li>
+		<li>
+			<a href="https://www.buymeacoffee.com/kxroshinigp" target="_blank">
+				<img src="https://img.shields.io/badge/BuyMeACoffee-orange.svg?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white" style="margin-bottom: 5px;" />
+			</a>
+		</li
+	</ul>
 </div>
 
 <br>
