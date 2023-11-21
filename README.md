@@ -35,7 +35,7 @@
 	
 	![Assembler](https://img.shields.io/badge/Assembler-blue.svg?style=for-the-badge&logo=Arm&logoColor=white)
 	![C](https://img.shields.io/badge/C-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-	![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+	![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 	![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=oracle&logoColor=white)
 	![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
@@ -132,18 +132,19 @@
 <li>
 <a href="mailto:kxroshinigami@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  kxroshinigami-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
 </li>
 <li>
-<a href="https://creator.nightcafe.studio/u/Kxro" target"_blank">
-<img src="https://img.shields.io/badge/Nightcafe:%20%20AI%20Art-black.svg?style=for-the-badge&logo=Artifact%20Hub&logoColor=white" style"margin-bottom: 5px;" />
-</a>
+<a href="https://www.linkedin.com/in/vitali-bier/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 5px;" />
+</li>
+<li>
+<a href="https://creator.nightcafe.studio/u/Kxro" target="_blank">
+<img src="https://img.shields.io/badge/Nightcafe:%20%20AI%20Art-black.svg?style=for-the-badge&logo=Artifact%20Hub&logoColor=white" style="margin-bottom: 5px;" />
 </li>
 <li>
 <a href="https://www.buymeacoffee.com/kxroshinigp" target="_blank">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=Buy%20Me%20A%20Coffee&logoColor=white" style="margin-bottom: 5px;" />
-</a>
-</li
+</li>
 </ul>
 </div>
 
